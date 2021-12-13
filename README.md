@@ -12,5 +12,4 @@ I builded many little projects, most of these just to learn the language.
 But a few of these, I builded to publish it to the web or even the apples AppStore.
 
 2021 I published my own website https://codinglegacy.io where I show my projects which I builded.
-Also in 2021, I published my first App "FruityRecipes" on the AppStore.
-I'm developed a drinking game too, which I will publish mid 2021 on the AppStore.
+I also started to create small websites as a freelancer.

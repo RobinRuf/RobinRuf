@@ -16,4 +16,4 @@ These are linked in my profile down below. For example the Medium-Clone or the G
 
 I already created a few Websites with ReactJS and NextJS with server-side rendering for different client since 2022.
 
-If you wanna contact me for an upcomming project, use my contact data in my github profile like my personal website. (My Website is also a personal portfolio of my projects and programming skills.)
+<b>If you wanna contact me for an upcomming project, use my contact data in my github profile like my personal website.</b> (My Website is also a personal portfolio of my projects and programming skills.)

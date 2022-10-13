@@ -11,4 +11,3 @@ I also builded many clones of popular websites to gain experience and learn more
 
 # Want to hire me?
 If you wanna contact me for an upcomming project, use my contact data in my github profile like my <b>personal website</b>.<br>
-(in progress)

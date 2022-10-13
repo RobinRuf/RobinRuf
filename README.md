@@ -9,5 +9,5 @@ Since then I nearly mastered JavaScript and went forward to different Frameworks
 I developed many projects for customers, friends and myself with these Frameworks and Libraries.
 I also builded many clones of popular websites to gain experience and learn more and more!
 
-# Want to hire me?
-If you wanna contact me for an upcomming project, use my contact data in my github profile like my <a href='https://raigeki.dev/' target="_blank" rel='noopener noreferrer'><b>personal website</b></a>.
+# Do you need a Developer?
+If you wanna contact me or just wanna see more of my projects and works, then visit my <a href='https://raigeki.dev/' target="_blank" rel='noopener noreferrer'><b>Portfolio</b></a>.

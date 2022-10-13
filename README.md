@@ -10,4 +10,4 @@ I developed many projects for customers, friends and myself with these Framework
 I also builded many clones of popular websites to gain experience and learn more and more!
 
 # Want to hire me?
-If you wanna contact me for an upcomming project, use my contact data in my github profile like my <b>personal website</b>.<br>
+If you wanna contact me for an upcomming project, use my contact data in my github profile like my <a href='https://raigeki.dev/' target='_blank'><b>personal website</b></a>.

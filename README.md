@@ -1,5 +1,24 @@
 # 💫 About Me:
-My name is Robin and I am a full stack mobile & web developer based in Switzerland.<br><br>I started my coding career back in 2012.<br>I wanted to create a browser game with a few friends but couldn't code.<br>So I decided to teach myself. <br><br>Started with the basics of HTML, CSS and Javascript to finally start coding my project.<br>Then soon started to learn SQL and tried to get deeper in Javascript.<br><br>Since 2021, I love to code in React.JS or React Native.<br>Shortly after started to code in React I found the React Framework Next.JS.<br>Since then I did almost every project with Next.JS, if it was possible.
+### Hello World! 👋
+
+🚀 **Journey Start - 2012**
+Back in 2012, I embarked on my coding journey. What sparked this adventure was a simple yet ambitious dream - to develop a browser game with my friends. Our toolkit? HTML5, CSS3, JavaScript, PHP, C#, and SQL. It was the beginning of a journey that I didn't know would shape my career and passion for the years to come.
+
+📱 **Diving into Web and Mobile Development**
+As I delved deeper, I quickly transitioned into the vibrant world of web and mobile development. Swift and Kotlin became my go-to languages as I explored the realms of mobile development. 
+
+💻 **2021 - The Year of React.JS**
+Fast forward to 2021, I stumbled upon the React.JS library for web development, and it was love at first sight. It wasn't long before I transitioned from Swift and Kotlin to React Native for mobile development, embracing the unified approach to web and mobile apps.
+
+🌐 **2022 - Discovering Next.JS**
+In 2022, I had the pleasure of discovering Next.JS, a framework that significantly influenced my approach to web development. It introduced me to a more streamlined and efficient way of building web applications, which I quickly grew fond of. Since then, I have favored using Next.JS in both my private and freelance projects, enjoying the enhanced development experience it offers.
+
+🔥 **Backend Development w/ Firebase, Appwrite & more**
+Over the years, I have worked with a variety of backend technologies including Postgres, MongoDB, GraphQL, AWS, MySQL, and MariaDB. However, I find myself predominantly opting for Firebase and Appwrite. These platforms have not only simplified backend integration but have also streamlined the development process, enabling me to concentrate on crafting immersive and dynamic web experiences. Their user-friendly nature and robust features make them my go-to choices in most cases.
+
+🛠 **Today - Building with Passion**
+Today, I continue to build, learn, and grow, driven by the same passion that ignited my journey over a decade ago. I am open to collaborations and always eager to take on new challenges. Feel free to reach out for potential projects or just a chat about the latest in tech!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-ruf) 

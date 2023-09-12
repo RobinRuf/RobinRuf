@@ -1,5 +1,24 @@
-# 💫 About Me:
-### Hello World! 👋
+# 💫 Robin
+**`Digital Craftsman | Software Engineer`**
+
+🚀 **Started Coding - 2012**
+In 2012, my friends and I decided to create a browser game, kicking off my coding journey. We started with the basics: HTML5, CSS3, JavaScript, PHP, C#, and SQL.
+
+📱 **Stepping into Web and Mobile Dev**
+I soon moved into web and mobile development, learning Swift and Kotlin to build mobile apps.
+
+💻 **2021 - Falling for React.JS**
+By 2021, I found React.JS and fell in love with web development all over again. I even switched to React Native for mobile projects.
+
+🌐 **2022 - Next.JS Enters the Scene**
+Next.JS caught my attention in 2022. This framework showed me a simpler way to build web apps, and I've been a fan ever since, using it for many of my projects.
+
+🔥 **Backend - Firebase, Appwrite & More**
+I've used many backend services, but Firebase and Appwrite are my favorites. They make backend work easier, letting me focus on creating great web stuff.
+
+🛠 **Now - Building with Joy**
+Now, I'm all about building cool stuff and learning more each day. Got a project or just want to chat tech? Feel free to reach out!
+
 
 🚀 **Journey Start - 2012**
 Back in 2012, I embarked on my coding journey. What sparked this adventure was a simple yet ambitious dream - to develop a browser game with my friends. Our toolkit? HTML5, CSS3, JavaScript, PHP, C#, and SQL. It was the beginning of a journey that I didn't know would shape my career and passion for the years to come.

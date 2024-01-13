@@ -20,6 +20,7 @@ I've used many backend services, but Firebase and Appwrite are my favorites. The
 Today, I continue to build, learn, and grow, driven by the same passion that ignited my journey over a decade ago. I am open to collaborations and always eager to take on new challenges. Feel free to reach out for potential projects or just a chat about the latest in tech!
 
 ---
+[comment]: <> (Icons got from: https://devicon.dev/)
 # 🧰 Main Languages & Tools
 <img align="left" alt="react" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="next" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
